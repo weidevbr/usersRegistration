@@ -26,11 +26,14 @@ Funções principais:
 2.Senha deve possuir no mínimo 8 caracteres contendo letra maiúscula e número.
 3.Usuário deve possuir pelo menos 18 anos completos para ser cadastrado.
 
--Tela de Listar Usuários: Apresenta todos os usuários cadastrados, assim como possui icones ao lado com funções de excluir e editar.<br />
+-Tela de Listar Usuários: Apresenta todos os usuários cadastrados, assim como possui icones ao lado com funções de excluir e editar.\
 
--Excluindo Usuário: Ao selecionar o icone de excluir usuário, uma mensagem de confirmação é apresentada.<br />
 
--Editar Usuário: Ao selecionar o icone de editar usuário abre uma nova tela com todas as informações, ao selecionar a informação que deseja editar o botão de atualizar pode ser acionado.<br />
+-Excluindo Usuário: Ao selecionar o icone de excluir usuário, uma mensagem de confirmação é apresentada.\
+
+
+-Editar Usuário: Ao selecionar o icone de editar usuário abre uma nova tela com todas as informações, ao selecionar a informação que deseja editar o botão de atualizar pode ser acionado.\
+
 
 **** Aplicativo basico criado como teste.
 
